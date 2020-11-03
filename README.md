@@ -1,7 +1,8 @@
-### Hi there 👋
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kevin-Caballero&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Caballero&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
-
+<!--
+**Kevin-Caballero/Kevin-Caballero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -10,10 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kevin-Caballero&show_icons=true&theme=tokyonight)
-<!--
-**Kevin-Caballero/Kevin-Caballero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 -->
