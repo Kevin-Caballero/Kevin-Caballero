@@ -1,4 +1,5 @@
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kevin-Caballero&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Caballero&layout=compact&hide=html)](https://github.com/Kevin-Caballero/github-readme-stats)
 
 <!--
 **Kevin-Caballero/Kevin-Caballero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
