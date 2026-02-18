@@ -24,14 +24,6 @@ I am a passionate software developer with experience in full-stack environments 
 <a href="https://www.github.com/Kevin-Caballero" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Kevin-Caballero?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
 
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Kevin-Caballero"><img src="https://github-readme-stats.vercel.app/api?username=Kevin-Caballero&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="Kevin-Caballero's GitHub stats" /></a>
-
-<a href="https://github.com/Kevin-Caballero" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Caballero&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 ### Support Me
 
 <span style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/8uhkg5v"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></span>
