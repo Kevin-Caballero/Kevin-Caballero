@@ -11,9 +11,6 @@ I am a passionate software developer with experience in full-stack environments 
 *   🧠  I'm currently learning Computer Science degree at UOC (software track)
 *   👥  I'm looking to collaborate on Exciting and innovative projects, especially those involving web applications or emerging technologies.
 *   💬  Ask me about 1st place in Malakabot 2015 (speed robots), speaker at Malakabot (3D prosthetics), participant in Don Bosco National Award 2016, and secretly Spiderman… but don’t tell anyone
-### Skills
-
-### Skills
 
 ### Skills
 
